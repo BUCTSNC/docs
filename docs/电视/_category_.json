@@ -1,0 +1,8 @@
+{
+  "label": "电视",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "和电视相关的东西"
+  }
+}

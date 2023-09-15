@@ -1,0 +1,8 @@
+{
+  "label": "路由器",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "和路由器相关的东西"
+  }
+}
