@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksnc_doc=self.webpackChunksnc_doc||[]).push([[626],{1811:e=>{e.exports=JSON.parse('{"title":"1002","description":"\u548c\u5a92\u4f53\u670d\u52a1\u76f8\u5173\u7684\u4e1c\u897f","slug":"/category/1002","permalink":"/docs/category/1002","navigation":{"next":{"title":"1002","permalink":"/docs/1002/"}}}')}}]);
