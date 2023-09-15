@@ -8,6 +8,7 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <copyright>Copyright © 2023 BUCTSNC.</copyright>
         <item>
             <title><![CDATA[2022-2023学年下学期 Xware学期总结]]></title>
             <link>https://docs.ccsn.dev/blog/Xware学期总结：2022-2023学年下学期</link>
