@@ -50,6 +50,18 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/buctsnc/docs/tree/main/',
+          feedOptions: {
+            type: 'all',
+            copyright: `Copyright © ${new Date().getFullYear()} BUCTSNC.`,
+            createFeedItems: async (params) => {
+              const {blogPosts, defaultCreateFeedItems, ...rest} = params;
+              return defaultCreateFeedItems({
+                // keep only the 20 most recent blog posts in the feed
+                blogPosts: blogPosts.filter((item, index) => index < 20),
+                ...rest,
+              });
+            },
+          },
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
