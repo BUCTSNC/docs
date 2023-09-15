@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksnc_doc=self.webpackChunksnc_doc||[]).push([[4477],{6234:e=>{e.exports=JSON.parse('{"label":"CCSN Lecture","permalink":"/blog/tags/ccsn-lecture","allTagsPath":"/blog/tags","count":1}')}}]);

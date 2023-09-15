@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksnc_doc=self.webpackChunksnc_doc||[]).push([[6142],{7309:s=>{s.exports=JSON.parse('{"label":"\u6d3b\u52a8","permalink":"/blog/tags/\u6d3b\u52a8","allTagsPath":"/blog/tags","count":3}')}}]);

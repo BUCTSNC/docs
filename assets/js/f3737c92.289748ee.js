@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksnc_doc=self.webpackChunksnc_doc||[]).push([[2569],{8649:s=>{s.exports=JSON.parse('{"label":"NAS","permalink":"/blog/tags/nas","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -2,69 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.ccsn.dev/blog</id>
     <title>SNC文档站 Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2023-06-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.ccsn.dev/blog"/>
     <subtitle>SNC文档站 Blog</subtitle>
     <icon>https://docs.ccsn.dev/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://docs.ccsn.dev/blog/welcome</id>
-        <link href="https://docs.ccsn.dev/blog/welcome"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p><p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p><p>Regular blog authors can be added to <code>authors.yml</code>.</p><p>The blog post date can be extracted from filenames, such as:</p><ul><li><code>2019-05-30-welcome.md</code></li><li><code>2019-05-30-welcome/index.md</code></li></ul><p>A blog post folder can be convenient to co-locate blog post images:</p><p><img loading="lazy" alt="Docusaurus Plushie" src="/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ABpA"></p><p>The blog supports tags as well!</p><p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
-        <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
-        </author>
-        <author>
-            <name>Yangshun Tay</name>
-            <uri>https://github.com/yangshun</uri>
-        </author>
-        <category label="facebook" term="facebook"/>
-        <category label="hello" term="hello"/>
-        <category label="docusaurus" term="docusaurus"/>
+        <title type="html"><![CDATA[2022-2023学年下学期 Xware学期总结]]></title>
+        <id>https://docs.ccsn.dev/blog/Xware学期总结：2022-2023学年下学期</id>
+        <link href="https://docs.ccsn.dev/blog/Xware学期总结：2022-2023学年下学期"/>
+        <updated>2023-06-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[又是一个学期末，到了我们喜闻乐见一年两度的X-ware服务总结]]></summary>
+        <content type="html"><![CDATA[<p>又是一个学期末，到了我们喜闻乐见一年两度的X-ware服务总结</p><p>不清楚X-ware服务是什么的可以去看<a href="https://ccsn.dev/2022/11/17/%E5%91%A8%E4%BA%94%E6%96%B0%E7%94%9F%E6%AC%A2%E8%BF%8E%E6%B4%BB%E5%8A%A8/#more" target="_blank" rel="noopener noreferrer">这篇文章</a></p><h2 class="anchor anchorWithStickyNavbar_J8e2" id="情况总述">情况总述<a href="#情况总述" class="hash-link" aria-label="Direct link to 情况总述" title="Direct link to 情况总述">​</a></h2><p>首先是本学期维修的情况统计，这学期我们一共维修了大概140余台电脑，通过下图，我们可以很清楚的看出来，在维修率这块联想独占鳌头（bushi），有同学该吆喝了：<del>联想这么容易出问题，我们都不要买了</del>，错错错，大错特错，最高的维修率并不能说明联想的电脑非常的拉胯，买联想的同学还是非常多的，这也是个不小的基数，所以维修占比高点怎么了。同理可见，御三家的笔记本的持有率还是比较高的。（至少在百化是这样的）</p><p><img loading="lazy" alt="品牌统计" src="/assets/images/xware2022-2023_2_1-06c9f46a86696ac1800ffa8faee7c002.jpg" width="4486" height="2747" class="img_ABpA"></p><p>接下来我们来看看另一板块——问题统计</p><p>先上图</p><p><img loading="lazy" alt="问题统计" src="/assets/images/xware2022-2023_2_2-95421b8fa13a43df1866b42fb886ebf6.jpg" width="1653" height="993" class="img_ABpA"></p><p>图里很清楚的可以看出来，这140多台电脑中，有三成多的是来清灰的，<del>可见山里有多少灰了</del>，其他问题中间也有绝大部分是C盘爆了（有幸见过一个C盘只剩145MB的）</p><p>结果显示中有14%的硬件问题，但是实际上达不到这么多，好多是同学系统的问题如驱动被不知名软件给干没了导致的，但是同学在保修时认为是硬件问题，实际硬件出问题的只有那么不到例，这么我们回头看上边的数据是不是就合理多了，御三家的质量还是没有那么差的（doge）。</p><p>这一个学期里我们也遇到了不少的问题，这里就把一些可能对大家有帮助的问题给列举一下吧</p><h2 class="anchor anchorWithStickyNavbar_J8e2" id="问题总结">问题总结<a href="#问题总结" class="hash-link" aria-label="Direct link to 问题总结" title="Direct link to 问题总结">​</a></h2><h3 class="anchor anchorWithStickyNavbar_J8e2" id="问题1校园网认证界面打不开">问题1：校园网认证界面打不开<a href="#问题1校园网认证界面打不开" class="hash-link" aria-label="Direct link to 问题1：校园网认证界面打不开" title="Direct link to 问题1：校园网认证界面打不开">​</a></h3><p>先说校园网认证界面打不开这问题，这个问题其实非常简单，我们可以直接输入IP地址就好（比如百化的就是：<!-- -->[202.4.130.95]<!-- -->），当然你如果不想天天这么干，你可以参考下边的解决方法</p><h3 class="anchor anchorWithStickyNavbar_J8e2" id="问题2联网了但是打不开网页">问题2：联网了但是打不开网页<a href="#问题2联网了但是打不开网页" class="hash-link" aria-label="Direct link to 问题2：联网了但是打不开网页" title="Direct link to 问题2：联网了但是打不开网页">​</a></h3><p>这个问题很常见，他还有好多同类问题，比如我能上qq、微信，可以正常聊天，却上打不开网页，并且问了一大圈发现只有我是这样的情况，这类问题通常来看是DNS配置的问题</p><blockquote><p>至于什么是DNS，这里推荐去看<a href="https://www.bilibili.com/video/BV1Rp4y1a7xQ/?share_source=copy_web&amp;vd_source=cbd4106d2cb34ce0e57081cf89455638" target="_blank" rel="noopener noreferrer">【硬件科普】能上QQ但是打不开网页？详解DNS服务，DNS解析，DNS劫持和污染</a>，这里就不细说了</p></blockquote><p>以win11为例，右键开始菜单，点击网络连接</p><p><img loading="lazy" src="/assets/images/xware2022-2023_2_3-77a38caabc9ee7538680159f397315b1.jpg" width="1810" height="1080" class="img_ABpA"></p><p>选择高级网络设置</p><p><img loading="lazy" src="/assets/images/xware2022-2023_2_4-c2701746dd8cd50a92c4261286c06966.jpg" width="1201" height="909" class="img_ABpA"></p><p>滑到底，选择更多适配器网络选项</p><p><img loading="lazy" src="/assets/images/xware2022-2023_2_5-a6db3c4590dd97455e2441d010785678.jpg" width="869" height="853" class="img_ABpA"></p><p>选择你现在在用的网络适配器，无线网络的可能名称是WLAN，有线网络可能名称是以太网，双击进入或右键选择属性</p><p><img loading="lazy" src="/assets/images/xware2022-2023_2_6-46262989e48b1b8d260b9597d0493632.jpg" width="421" height="575" class="img_ABpA"></p><p>选择<code>Internet协议版本4(TCP/IPv4)</code>，当然如果你用的IPv6的话你就选择IPv6的，同样是双击或者单击后选择属性</p><p><img loading="lazy" src="/assets/images/xware2022-2023_2_7-1eea4df03643dcc8cb68a085ec58c851.jpg" width="421" height="598" class="img_ABpA"></p><p>点击使用下边的DNS服务器地址，可以将dns地址改为如图</p><p>这里再提供几个DNS服务器以便选择，233.5.5.5(阿里云)，233.6.6.6(阿里云)，101.6.6.6(清华)，119.29.29.29(腾讯)</p><h3 class="anchor anchorWithStickyNavbar_J8e2" id="问题3solidwork卸载残留">问题3：solidwork卸载残留<a href="#问题3solidwork卸载残留" class="hash-link" aria-label="Direct link to 问题3：solidwork卸载残留" title="Direct link to 问题3：solidwork卸载残留">​</a></h3><p>这个不是一般的残留问题，一般的残留问题我们也不会单拎出来在这里说了，这名同学在solidwork安装过程中突然关机了，导致安装程序一直挂在后台，也不会正常进行安装，但是已经安装的文件还在并且还占据的不小的空间，在注册表中没有找到solidwork的任何信息，最终没有办法只能采用暴力方式删除，使用<a href="https://www.voidtools.com/zh-cn/" target="_blank" rel="noopener noreferrer">everything</a>找到solidwork的文件，然后一个一个删除。</p><p>这里是想提醒大家，在安装程序执行过程中，尽量不要去中断，要不是可能产生非常多不必要的麻烦（你也不想一个一个的删除各个地方的残留文件吧）</p><h3 class="anchor anchorWithStickyNavbar_J8e2" id="问题4dev-c编译过慢">问题4：dev c++编译过慢<a href="#问题4dev-c编译过慢" class="hash-link" aria-label="Direct link to 问题4：dev c++编译过慢" title="Direct link to 问题4：dev c++编译过慢">​</a></h3><p>这个问题非常神奇，起初我们认为是编译器出了问题，在进行过排查之后发现，好像没有什么问题，同学说每次开机都会随机的卡一会，这个不妨让我们联想到杀软，最后一查，嘿，联想电脑管家在背后默默守护电脑呢，编译之后产生的文件被他视为新下的文件，他会开始全盘扫描，导致卡顿，关闭该功能后一切正常。</p><p>这也给我们解决卡顿问题提供了一个新的思路——有事没事看看杀软在你眼皮子底下干了点啥</p><h3 class="anchor anchorWithStickyNavbar_J8e2" id="问题5c盘爆满">问题5：C盘爆满<a href="#问题5c盘爆满" class="hash-link" aria-label="Direct link to 问题5：C盘爆满" title="Direct link to 问题5：C盘爆满">​</a></h3><p>这个问题也不在少数，这里推荐用<a href="http://www.uderzo.it/main_products/space_sniffer/" target="_blank" rel="noopener noreferrer">spacesnifer</a>查看空间占用情况，然后删除一些没有用的文件。</p><p>这里提醒大家，一定要注意新应用的安装位置和配置信息存放位置，要不你的C盘会整日整月的大红大紫呦。</p>]]></content>
+        <category label="CCSN" term="CCSN"/>
+        <category label="X-ware" term="X-ware"/>
+        <category label="活动" term="活动"/>
+        <category label="学期总结" term="学期总结"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MDX Blog Post]]></title>
-        <id>https://docs.ccsn.dev/blog/mdx-blog-post</id>
-        <link href="https://docs.ccsn.dev/blog/mdx-blog-post"/>
-        <updated>2021-08-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
-        <content type="html"><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p><div class="theme-admonition theme-admonition-tip alert alert--success admonition_l04S"><div class="admonitionHeading_giW_"><span class="admonitionIcon_JA_F"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_YxFr"><p>Use the power of React to create interactive blog posts.</p><div class="language-js codeBlockContainer_azwa theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_kMmd"><pre tabindex="0" class="prism-code language-js codeBlock_eq8c thin-scrollbar"><code class="codeBlockLines_M058"><span class="token-line" style="color:#393A34"><span class="token operator" style="color:#393A34">&lt;</span><span class="token plain">button onClick</span><span class="token operator" style="color:#393A34">=</span><span class="token punctuation" style="color:#393A34">{</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:#393A34">=&gt;</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">alert</span><span class="token punctuation" style="color:#393A34">(</span><span class="token string" style="color:#e3116c">'button clicked!'</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">}</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token maybe-class-name">Click</span><span class="token plain"> me</span><span class="token operator" style="color:#393A34">!</span><span class="token operator" style="color:#393A34">&lt;</span><span class="token operator" style="color:#393A34">/</span><span class="token plain">button</span><span class="token operator" style="color:#393A34">&gt;</span><br></span></code></pre><div class="buttonGroup_VjRJ"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_nkyW" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_nr7X"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_P_G1"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><button>Click me!</button></div></div>]]></content>
-        <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
-        </author>
-        <category label="docusaurus" term="docusaurus"/>
+        <title type="html"><![CDATA[CCSN Lecture：搭建个人 NAS 的实践与经验]]></title>
+        <id>https://docs.ccsn.dev/blog/CCSN Lecture：搭建个人 NAS 的实践与经验</id>
+        <link href="https://docs.ccsn.dev/blog/CCSN Lecture：搭建个人 NAS 的实践与经验"/>
+        <updated>2022-11-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[引言]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_J8e2" id="引言">引言<a href="#引言" class="hash-link" aria-label="Direct link to 引言" title="Direct link to 引言">​</a></h2><p>摩尔定律…… 似乎也不仅对处理器生效。</p><p>智能设备开始搭载高性能摄像头也已经有一些年头，我们用它留下了许多宝贵的照片、录像、通话记录，但手机很快被塞满于是不得不拷到电脑上，但又希望能随时抽出来回味。不想成为正版游戏的受害者因此存档一份又一份特定稳定版本的免 DRM 版，留到大雪封山断网的时候打发时间。多年前看过而记忆犹新的老电影，想在未来的一天抽出其中被删节的一段与人探讨……</p><p>不管您是有大量的美术素材等待妥善保管的艺术或影视从业者，还是有 “仓鼠病” 单纯出于想要存档的角度求一份心安的 BT/PT 爱好者，一个可靠的存储系统都是不可缺少，或者说至少非常重要的。</p><p>（文编：快乐的老鼠宝宝）  </p><h2 class="anchor anchorWithStickyNavbar_J8e2" id="内容简介">内容简介<a href="#内容简介" class="hash-link" aria-label="Direct link to 内容简介" title="Direct link to 内容简介">​</a></h2><p>本次茶话会主要将围绕如下内容展开：</p><ul><li><p>如何选购适合 NAS 的硬盘</p></li><li><p>NAS 上操作系统的安装与维护（TrueNAS）</p></li></ul><p><img loading="lazy" alt="到货的机械硬盘" src="/assets/images/NAS_1-c929feb57249fb34b285f0f49c249283.jpg" width="1280" height="960" class="img_ABpA"></p><p><img loading="lazy" alt="TrueNAS 的系统截图" src="/assets/images/NAS_2-1f792e5d9fd2c2aab348c55c582f0ff2.jpg" width="1280" height="653" class="img_ABpA"></p><h2 class="anchor anchorWithStickyNavbar_J8e2" id="活动信息">&nbsp;活动信息<a href="#活动信息" class="hash-link" aria-label="Direct link to &nbsp;活动信息" title="Direct link to &nbsp;活动信息">​</a></h2><ul><li><p>会议号：263-913-295</p></li><li><p>时间：2022-11-26 20:00-21:00 (UTC +8:00)</p></li><li><p>平台：腾讯会议</p></li><li><p>主讲人：考拉学长</p></li></ul><h2 class="anchor anchorWithStickyNavbar_J8e2" id="录播信息">录播信息<a href="#录播信息" class="hash-link" aria-label="Direct link to 录播信息" title="Direct link to 录播信息">​</a></h2><p>回放链接（Dropbox）： <a href="https://www.dropbox.com/s/9gzlkaphcyemwc4/CCSN_Lecture%5B01%5D-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BANAS.mp4" target="_blank" rel="noopener noreferrer">Click</a></p>]]></content>
+        <category label="CCSN" term="CCSN"/>
+        <category label="CCSN Lecture" term="CCSN Lecture"/>
+        <category label="NAS" term="NAS"/>
+        <category label="活动" term="活动"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Long Blog Post]]></title>
-        <id>https://docs.ccsn.dev/blog/long-blog-post</id>
-        <link href="https://docs.ccsn.dev/blog/long-blog-post"/>
-        <updated>2019-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
-        <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p><p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
-        <author>
-            <name>Endilie Yacop Sucipto</name>
-            <uri>https://github.com/endiliey</uri>
-        </author>
-        <category label="hello" term="hello"/>
-        <category label="docusaurus" term="docusaurus"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://docs.ccsn.dev/blog/first-blog-post</id>
-        <link href="https://docs.ccsn.dev/blog/first-blog-post"/>
-        <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
-        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
-        <author>
-            <name>Gao Wei</name>
-            <uri>https://github.com/wgao19</uri>
-        </author>
-        <category label="hola" term="hola"/>
-        <category label="docusaurus" term="docusaurus"/>
+        <title type="html"><![CDATA[周五新生欢迎活动]]></title>
+        <id>https://docs.ccsn.dev/blog/周五新生欢迎活动</id>
+        <link href="https://docs.ccsn.dev/blog/周五新生欢迎活动"/>
+        <updated>2022-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[每周五我们在319有一个活动——X-ware服务，在这个活动中，我们会为全校师生供免费的软硬件维修服务。]]></summary>
+        <content type="html"><![CDATA[<p>每周五我们在319有一个活动——X-ware服务，在这个活动中，我们会为全校师生供免费的软硬件维修服务。</p><p>如果你的电脑有问题自己搞不定或者你对硬件感兴趣想要学习一些硬件以及电脑维修的知识，都可以在本周五晚六点到十点来后勤楼319参加，届时我们会准备一些小礼品，欢迎大家来玩ヾ(@^▽^@)ノ</p><p>附：后勤楼位置</p><p><img loading="lazy" alt="后勤楼位置" src="/assets/images/xware_map-75461b7ea58a0c73e8b2c9bad3bd8490.jpg" width="1080" height="1486" class="img_ABpA"></p>]]></content>
+        <category label="CCSN" term="CCSN"/>
+        <category label="X-ware" term="X-ware"/>
+        <category label="新生" term="新生"/>
+        <category label="活动" term="活动"/>
     </entry>
 </feed>
