@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksnc_doc=self.webpackChunksnc_doc||[]).push([[963],{7128:e=>{e.exports=JSON.parse('{"title":"1001","slug":"/category/1001","permalink":"/docs/category/1001","navigation":{"previous":{"title":"\u5b89\u88c5MegaCLI","permalink":"/docs/PVE/\u5b89\u88c5MegaCLI"},"next":{"title":"flare","permalink":"/docs/1001/flare"}}}')}}]);
