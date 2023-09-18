@@ -1,0 +1,8 @@
+{
+  "label": "PVE",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "和PVE机器相关的东西"
+  }
+}
